@@ -11,3 +11,4 @@ Aqui pondre en lista los proyectos de frontend mentor que he desarrollado y comp
     |Intro component with sign up form | [Link](https://github.com/SevroAuBarca/FEM-intro-with-signup) | [Site](https://condescending-curran-37ece4.netlify.app/)
     |NFT preview card component | [Link](https://github.com/SevroAuBarca/FEM-NFT-PREVIEW-CARD) | [Site](https://upbeat-edison-c5382d.netlify.app/)
     |Order summary card | [Link](https://github.com/SevroAuBarca/FEM-Order-Summary-Component) | [Site](https://sevroaubarca.github.io/FEM-Order-Summary-Component/)
+    |3-column preview card component | [Link](https://github.com/SevroAuBarca/JavaScript-Proyects/edit/main/README.md) | [Site](https://3-column-preview-card-component-sevroaubarca.vercel.app/)
