@@ -13,3 +13,4 @@ Aqui pondre en lista los proyectos de frontend mentor que he desarrollado y comp
     |Order summary card | [Link](https://github.com/SevroAuBarca/FEM-Order-Summary-Component) | [Site](https://sevroaubarca.github.io/FEM-Order-Summary-Component/)
     |3-column preview card component | [Link](https://github.com/SevroAuBarca/JavaScript-Proyects/edit/main/README.md) | [Site](https://3-column-preview-card-component-sevroaubarca.vercel.app/)
     |Stats preview card component | [Link](https://github.com/SevroAuBarca/FEM-stats-preview-card) | [Site](https://sevroaubarca.github.io/FEM-stats-preview-card/)
+    |Social Proof Section|[Link](https://github.com/SevroAuBarca/FEM-Social-proof-section)| [Site](https://sevroaubarca.github.io/FEM-Social-proof-section/)
